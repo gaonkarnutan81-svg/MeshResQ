@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { View, Text, StyleSheet, ActivityIndicator, FlatList, Vibration, Alert } from 'react-native';
 
 // 🔧 Backend server config
-const SERVER_IP = "172.16.0.190";
+const SERVER_IP = "10.41.158.58";
 const SERVER_PORT = "5000";
 
 // sender name (later you can detect device name dynamically)

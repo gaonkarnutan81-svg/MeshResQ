@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { View, Text, TextInput, TouchableOpacity, FlatList, StyleSheet, Alert } from 'react-native';
 
 // backend config
-const SERVER_IP = "172.16.0.190";
+const SERVER_IP = "10.41.158.58";
 const SERVER_PORT = "5000";
 const SENDER_NAME = "MeshResQ-User";
 
